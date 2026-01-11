@@ -47,41 +47,41 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 title: "Impact of GDP, Inflation, and Interest Rate on Stock Market Performance of the United States: A Case Study of NYSE Index – Annual Research Journal of SCMS Pune",
                 doi: null,
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://www.researchgate.net/publication/386094815_IMPACT_OF_GDP_INFLATION_AND_INTEREST_RATE_ON_STOCK_MARKET_PERFORMANCE_OF_UNITED_STATES_A_CASE_STUDY_OF_NYSE_INDEX"
             },
             {
                 title: "Impact of GDP and Inflation on Stock Market in India: A Case Study of BSE Index - BMC Journal of Scientific Research",
                 doi: "10.3126/bmcjsr.v6i1.60961",
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://www.nepjol.info/index.php/bmcjsr/article/view/60961"
             },
             {
                 title: "Impact of GDP and Inflation on Stock Market Performance in Nepal and Sri Lanka: A Comparative Study of NEPSE and CSE Index – OCEM Journal of Management, Technology and Science",
                 doi: "10.3126/ocemjmtss.v3i1.62228",
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://www.nepjol.info/index.php/ocemjmtss/article/view/62228"
             },
             {
                 title: "Exploring Macroeconomic Indicators’ Influence on Capital Market Performance: A Cross-BRICS Analysis – Journal of Informatics Education and Research",
                 doi: "10.52783/jier.v4i2.862",
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://jier.org/index.php/journal/article/view/862"
             },
             {
                 title: "Analyzing the Interplay Between Economic Growth Rate, GDP Per Capita, and Stock Market Performance in India: A Case Study of the BSE Index – International Journal for Multidisciplinary Research",
                 doi: "10.36948/ijfmr.2024.v06i03.19617",
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://www.ijfmr.com/research-paper.php?id=19617"
             }
         ],
         "Entrepreneurship & Business Studies": [
             {
                 title: "Pivotal Factors Driving Entrepreneurial Success: A Study Based in Kerala's MSME Landscape – International Journal of Engineering Research and Applications",
                 doi: "10.9790/9622-14100110",
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://www.ijera.com/papers/vol14no10/14100110.pdf"
             }
         ],
         "Education & Learning Research": [
             {
                 title: "The Interplay of Online Attributes and Learning Modes in Shaping Satisfaction and Effectiveness in Online Learning – Discover Education (Scopus Index)",
                 doi: "10.1007/s44217-024-00344-y",
-                link: "https://www.scmspune.ac.in/annualresearchjournal/2024/Volume%2012/Issue%202/Article%2012.2.1.pdf"
+                link: "https://link.springer.com/article/10.1007/s44217-024-00344-y"
             }
         ],
         "Management & Organizational Behaviour": [
@@ -93,12 +93,12 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 title: "Student Satisfaction Towards College Canteen Services in Chitwan and Nawalpur Districts of Nepal – OCEM Journal of Management, Technology and Science",
                 doi: "10.3126/ocemjmtss.v3i2.67863",
-                link: "https://zenodo.org/record/17265205"
+                link: "https://www.nepjol.info/index.php/ocemjmtss/article/view/67863"
             },
             {
                 title: "Employee Satisfaction and Retention in the Banking Sector of Bharatpur Metropolis in Nepal: A Confirmatory Factor Analysis – OCEM Journal of Management Technology & Social Sciences",
                 doi: "10.3126/ocemjmtss.v3i2.68072",
-                link: "https://zenodo.org/record/17265205"
+                link: "https://www.nepjol.info/index.php/ocemjmtss/article/view/68072"
             }
         ]
     };
