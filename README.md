@@ -64,7 +64,7 @@ For scholarly reference, please use the author name **Satyendra Kushwaha**.
 ## Credits
 
 Content and academic profile: **Satyendra Kushwaha**  
-Technical development and deployment: **Vishnu K**  
+Technical development , deployment and maintenance : **Vishnu K**  
 https://vishnucax.github.io/
 
 ---
